@@ -1,4 +1,4 @@
-# experimentt
+# A Bus Trip Planner App
 
 A new Flutter project.
 
