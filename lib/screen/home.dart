@@ -253,7 +253,7 @@ class _HomeScreenState extends State<HomeScreen> {
       isLoading = true;
     });
 
-    const apiKey = 'AIzaSyBo69LImqHOvBVMymQMhl_0H5GlNp4q5zU';
+    const apiKey = 'Google_MAPS_API';
     final origin = Uri.encodeQueryComponent(originController.text);
     final destination = Uri.encodeQueryComponent(destinationController.text);
 
